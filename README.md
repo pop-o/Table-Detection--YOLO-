@@ -1,4 +1,5 @@
-This is a simple table detection trained on a custom dataset that separates two tables into two classes: borderless_table and border_table
+This is a simple table detection trained on a custom dataset that separates two tables into two classes: borderless_table and border_table.
+
 It is done using YOLOv8n model.
 
 Recommended Python version >=3.9
