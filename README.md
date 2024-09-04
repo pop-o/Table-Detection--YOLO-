@@ -37,5 +37,12 @@ To train using your own data follow these steps:
 
 ![{0427B847-8CB4-43CD-AE4C-AD3CE211446F}](https://github.com/user-attachments/assets/4c8df2e0-c1ac-405b-b21c-1a86b2210ad4)
 
-replace the paths with your file paths to your train and val folders.
+->replace the paths with your file paths to your train and val folders.
+
+->now you can run the tabledetection(two classes).ipynb file and train your model and perform inferences.
+
+->This part of the code in the tabledetection(two classes).ipynb file is used to crop the detected tables from a specified folder of 20 images and move them into another folder named cropped_images2
+
+![{5B53858B-12B5-4187-8273-1D36460217E2}](https://github.com/user-attachments/assets/60744f06-f4c2-40dd-b315-4b46fb98c46f)
+
 
