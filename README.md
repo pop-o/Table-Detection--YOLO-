@@ -1,4 +1,4 @@
-Recommended Python version >=3.9
+Recommended Python version >=3.9\n
 YOLO version: YOLOv8n
 To run the project follow the following steps:
 ->create a virtual environment using the commmand:
