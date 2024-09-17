@@ -8,20 +8,25 @@ YOLO version: YOLOv8n
 To run the project follow the following steps:
 
 ->create a virtual environment using the commmand:
-  python -m venv myev
+  
+    python -m venv myev
   (you can replace the myev with your preferred environment name)
   
 ->activate your environemtn using the command:
-  myev\Scripts\activate
+  
+    myev\Scripts\activate
   
 ->install jupyter notebook for running the tableDetection(two classes).ipynb file: 
-  pip install jupyter
+  
+    pip install jupyter
 
 ->install the requirements mentioned in the requirements.txt file. use the command:
-  pip install -r requirements.txt
+  
+    pip install -r requirements.txt
 
 ->open jupyter notebook using the command:
-  jupyter notebook
+  
+    jupyter notebook
 
 ->open the tableDetection(two classes).ipynb file and run all cells
   
