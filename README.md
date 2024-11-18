@@ -9,8 +9,8 @@ To run the project follow the following steps:
 
 ->create a virtual environment using the commmand:
   
-    python -m venv myev
-  (you can replace the myev with your preferred environment name)
+    python -m venv 'environment-name'
+  (you can replace the environment-name with your preferred environment name)
   
 ->activate your environemtn using the command:
   
